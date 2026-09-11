@@ -23,6 +23,6 @@ const mateo = {
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=mateomcalli&langs_count=3&theme=calm">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mateomcalli&langs_count=3&theme=calm" alt="GitHub Stats" height="200" />
   </a>
-  <img src="IMG_0052.JPG" alt="Photo" height="200" width="268" />
-  <img src="IMG_0042.JPG" alt="Photo" height="200" width="268" />
+  <img src="IMG_0052.JPG" alt="Photo" height="200" width="270" />
+  <img src="IMG_0042.JPG" alt="Photo" height="200" width="270" />
 </p>
